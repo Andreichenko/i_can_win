@@ -1,0 +1,7 @@
+#ignore list
+
+*.db
+*.log
+
+target/
+bin/
